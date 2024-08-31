@@ -11,4 +11,5 @@ This project is divided into multiple parts, each addressing a different stage o
 5. Model Comparison: Used the LazyPredict library to compare various regression models.
 
 YouTube Series: [Data Professor Bioinformatics Project](https://www.youtube.com/watch?v=plVLRashaA8&list=PLtqF5YXg7GLlQJUv9XJ3RWdd5VYGwBHrP&index=1)
+
 GitHub Repository: https://github.com/dataprofessor
